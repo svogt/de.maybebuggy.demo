@@ -1,0 +1,239 @@
+Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+I want to die peacefully in my sleep, like my grandfather.. Not screaming and yelling like the passengers in his car.
+I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked for forgiveness.
+Going to church doesn't make you a Christian any more than standing in a garage makes you a car.
+We live in a society where pizza gets to your house before the police.
+The last thing I want to do is hurt you. But it's still on the list.
+Light travels faster than sound. This is why some people appear bright until you hear them speak.
+If I agreed with you we'd both be wrong.
+We never really grow up, we only learn how to act in public.
+War does not determine who is right - only who is left.
+Knowledge is knowing a tomato is a fruit; Wisdom is not putting it in a fruit salad.
+Children: You spend the first 2 years of their life teaching them to walk and talk. Then you spend the next 16 years telling them to sit down and shut-up.
+Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+The early bird might get the worm, but the second mouse gets the cheese.
+Evening news is where they begin with 'Good evening', and then proceed to tell you why it isn't.
+To steal ideas from one person is plagiarism. To steal from many is research.
+If God is watching us, the least we can do is be entertaining.
+If 4 out of 5 people SUFFER from diarrhea... does that mean that one enjoys it?
+If you think nobody cares if you're alive, try missing a couple of payments.
+Better to remain silent and be thought a fool, than to speak and remove all doubt.
+How is it one careless match can start a forest fire, but it takes a whole box to start a campfire?
+A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station..
+Did you know that dolphins are so smart that within a few weeks of captivity, they can train people to stand on the very edge of the pool and throw them fish?
+A bank is a place that will lend you money, if you can prove that you don't need it.
+I thought I wanted a career, turns out I just wanted paychecks.
+Whenever I fill out an application, in the part that says "If an emergency, notify:" I put "DOCTOR". What's my mother going to do?
+I didn't fight my way to the top of the food chain to be a vegetarian
+A computer once beat me at chess, but it was no match for me at kick boxing.
+I didn't say it was your fault, I said I was blaming you.
+The shinbone is a device for finding furniture in a dark room.
+Please use English for reporting Bugs.
+A good bug is only a dead bug. (Starship Troopers)
+Avoid to integrate Bug2Bug solutions
+No brain - no headache!
+Bugs, like coathangers, breed if unobserved.
+If Java had true garbage collection, most programs would delete themselves upon execution.
+Have code , have bugs - no code , no bugs
+A good advice from Bugs Bunny: Jump to the next bug and be happy.
+Klingon Programmer: ?A true Klingon warrior does not comment his code!?
+Klingon Programmer: "Indentation? I will show you how to indent when I indent your skull!?
+Klingon Programmer: ?Klingon function calls do not have ?parameters? - they have ?arguments? and they always win them.?
+Klingon Programmer: ?By filing this bug report you have challenged the honour of my family. Prepare to die!?
+Klingon Programmer: "You question the worthiness of my code? I should kill you where you stand!?
+Klingon Programmer: ?Our competitors are without honour!?
+Klingon Programmer: ?Perhaps it is a good day to die! I say we ship it!?
+Klingon Programmer: ?My program has just dumped Stova Core!?
+Klingon Programmer: ?Behold, the keyboard of Kalis! The greatest Klingon code warrior that ever lived!?
+Klingon Programmer: ?Specifications are for the weak and timid!?
+Klingon Programmer: ?You cannot really appreciate Dilbert until you have read it in the original Klingon.?
+Klingon Programmer: ?Tests are for the weak and timid!?
+If your bug list is emty, don't be happy. This means nobody uses your code.
+Doctor! My brain hurts!
+University
+Bill Gates Says, "Bugs only stay if the computer is on. Turn it off and they'll go somewhere else. Trust me."
+Tact is the ability to tell a man he has an open mind when he has a hole in his head.
+What is the point of working hard to fix all these bugs, if in the end it turns out that we live in a MATRIX!!!
+N'estime l'argent ni plus ni moins qu'il ne vaut: c'est un bon serviteur et un mauvais maître.
+No bugs, no fun.
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+Sometimes it pays to stay in bed in Monday, rather than spending the rest of the week debugging Monday's code.
+When debugging, novices insert corrective code; experts remove defective code.
+People get annoyed when you try to debug them.
+"Good artists copy, great artists steal." Pablo Picasso
+Why do you want to do it that way?
+Somebody must have changed my code!
+I haven't touched that module in weeks!
+There is something funky in your data.
+It worked yesterday.
+It's never done that before.
+Professionals built the Titanic; Amateurs built the ark
+Real sharpness comes without effort. (Li Mu Bai)
+I washed a sock. Then I put it in a dryer. When I took it out, it was gone.
+Warning: Dates on the calendar are closer than they appear.
+Confidence is the feeling you have before you really understand the problem.
+When the only tool you own is a hammer, every problem begins to look like a nail.
+A conclusion is simply the place where you got tired of thinking.
+If the odds are a million to one against something occurring, chances are 50-50 it will.
+You cannot achieve the impossible without attempting the absurd.
+If a stealth bomber crashes in a forest, will it make a sound?
+It's not an optical illusion. It just looks like one.
+There are 10 types of persons - those who can read binary digits and those who can't.
+Nuke them all. No bug deserves to live!
+Ce n'est pas en tournant le dos aux choses qu'on leur fait face. (Pierre Dac)
+Plus la photo est vieille, et plus on a l'air jeune.
+Quelle prétention de prétendre que l'informatique est récente : Adam et Eve avaient déjà un Apple!
+Calvin: Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us!
+Calvin: Weekends don't count unless you spend them doing something completely pointless.
+Calvin: I think nighttime is dark so you can imagine your fears with less distraction
+Knuth: Any inaccuracies in this index may be explained by the fact that it has been sorted with the help of a computer."
+Knuth: "Premature optimization is the root of all evil (or at least most of it) in programming."
+Knuth; "An algorithm must be seen to be believed."
+Unless we fix all these bugs, the marketing department will have to change their strategy and sell BIS as a weapon of mass destruction!
+Testing? What's that? If it compiles, it is good, if it boots up, it is perfect. ~ Linus Torvalds
+Software and cathedrals are much the same - first we build them, then we pray.
+To err is human, to really screw up you need a computer.
+Real Programmers arrive at work in time for lunch.
+Real Programmers don't need comments—the code is obvious.
+Portability is for people who cannot write new programs. [Linus Torvalds]
+Ils sont fous, ces romains.
+A programmer is a machine that turns coffee into source code. (Gabe DePace)
+Timeo Danaos at dona ferentes!
+En affaires, mentir n'est jamais nécessaire, rarement utile et toujours dangereux. (Auguste Detœuf)
+La chose la plus importante en communication, c'est d'entendre ce qui n'est pas dit.
+La simplicité est l'habit de la perfection.
+Shortage of bugs leads to new features.
+This space is for rent.
+Quand on parle pognon, à partir d'un certain chiffre tout le monde écoute!
+Meine Oma ist 90 und kann das Dokument ohne Brille aus 1m Entfernung lesen. Das sagt doch schon alles.
+Press any key to continue - or any other key to abort.
+Keyboard not found. Press F1 to continue.
+BIS:Server not found: (A)bort, (R)etry, (P)anic?
+Error: BisServer does not feel like working today.
+Bis is almost like an AI, since even we are having difficulty understanding what is happening inside it.
+This is not a bug. It's a feature, which looks like a bug.
+Linus Torvalds: "Software is like sex: It's better when it's free."
+Einstein: "Ich bin nicht sicher, mit welchen Waffen der dritte Weltkrieg ausgetragen wird, aber im vierten Weltkrieg werden sie mit Stöcken und Steinen kämpfen."
+This is the first day of the rest of your life!
+You might be a programmer if you wonder why there’s so much religious debate. After all, can’t they just type man life?
+A conclusion is just the place where you got tired of thinking.
+Sometimes a fact or two can spoil a perfectly good argument.
+I had to write my own self help book, because reading someone else's seemed to defeat the purpose.
+Why is the word abbreviation so long?
+What happens if you get scared half to death twice?
+All of us could take a lesson from the weather. It pays no attention to criticism.
+How is it one careless match can start a forest fire, but it takes a whole box to start a campfire?
+At the age of 24 he knew 9 operating systems... and not even a single woman!
+Real programmers don't need documentation, they use debuggers instead...
+Error: too many errors
+Die Q2 muss vom Eis!
+Planung ist ersetzen des Zufalls durch den Irrtum
+BIS crashed?! It's never done that before.
+To iterate is human, to recurse divine.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.
+C++ : Where friends have access to your private members.
+The only people who have anything to fear from free software are those whose products are worth even less. (David Emery)
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are–by definition–not smart enough to debug it. (Brian Kernighan)
+Chuck Norris kann schneller stehen als du rennen kannst.
+Chuck Norris kann eine Bombe zerlegen - und zwar in ein Kaugummi, einen Faden, ein Streichholz und MacGyver.
+Monday is an awful way to spend 1/7th of your life.
+Atheism is a non-prophet organization.
+Developer: Is this bug ? Team Leader: No, this is the new feature
+Advertise here! More than 1000 visits and 100 new posts every day!
+Chuck Norris counted to infinity, twice!
+One fixed, 78663 to go.
+If you code it, bugs will come!
+Have you heard of "J Sharp"?
+Everyone makes mistakes. The trick is to make them when nobody is looking.
+Don't be skeptical, be pessimistic!
+Bruce Schneier's secure handshake is so strong, you won't be able to exchange keys with anyone else for days.
+Bruce Schneier can reverse any one-way cryptographic hash, just by staring it in the eye
+Veni, vidi, violini. - Ich kam, sah und vergeigte.
+Never let a computer know you're in a hurry. ~Author Unknown
+Avec de la méthode et de la logique on peut arriver à tout aussi bien qu’à rien.
+Chuck Norris is Luke Skywalker's real father.
+'Real artists ship.' -- Steve Jobs
+If we knew what we were doing, it wouldn't be called research, would it? - Albert Einstein
+A computer once beat me at chess, but it was no match for me at kick boxing.
+Opening and closing windows with the mouse is OK, doing the same with the doors is not.
+Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly and applying the wrong remedies. Groucho Marx
+JC: Speed has never killed anyone, suddenly becoming stationary... That's what gets you.
+J.C. : I'd like to consider Ferrari as a scaled down version of God.
+Unable to launch BIS coffee port is not responding.
+Every big computing disaster has come from taking too many ideas and putting them in one place. (Gordon Bell)
+One should expect that the expected can be prevented, but the unexpected should have been expected. (Norman Augustine)
+If people never did silly things, nothing intelligent would ever get done. (Ludwig Wittgenstein)
+I never make stupid mistakes. Only very, very clever ones. (”Dr Who”)
+WYSIWYMGIYRRLAAGW: What You See Is What You Might Get If You’re Really Really Lucky And All Goes Well!
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program. ~ Linus Torvalds
+Chuck Norris weiss warum da Stroh rum liegt.
+Lieber ein guter Point als ein verbogener Pointer.
+Wer das hier list, hat zu viel Zeit!
+Message on the door: "Do not feed the programmers!"
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (Bill Gates)
+There are no programmers in heaven.
+Jesus saves. Buddha does incremental backups.
+If your boss tells you: "We can't solve problems by using the same kind of thinking we used when we created them." this means you are fired.
+Specifications are for people with no imagination.
+When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. -Henry Ford
+Creative excuse number 432: Reporting is bad for the environment.
+Frankenstein: It's alive! It's alive!... Developer: No, just buggy.
+Microsofts release strategy: RC = Alpha, Release = Beta, Service Pack 1 = RC, Service Pack 2 = Release
+Paradox of the active User: Users start using software immediately and do not have patience to read manuals.
+Can I post a link here to my Facebook fanpage?
+All roads lead to Rome - but no way around Chuck Norris
+“If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside.” (Robert X. Cringely)
+“It’s ridiculous to live 100 years and only be able to remember 30 million bytes. You know, less than a compact disc. The human condition is really becoming more obsolete every minute.” (Marvin Minsky)
+“The city’s central computer told you? R2D2, you know better than to trust a strange computer!” (C3PO)
+“Never trust a computer you can’t throw out a window.” (Steve Wozniak)
+“Hardware: The parts of a computer system that can be kicked.” (Jeff Pesis)
+“I’ve finally learned what ‘upward compatible’ means. It means we get to keep all our old mistakes.” (Dennie van Tassel)
+“There are two major products that come out of Berkeley: LSD and UNIX. We don’t believe this to be a coincidence.” (Jeremy S. Anderson)
+“19 Jan 2038 at 3:14:07 AM” (End of the word according to Unix–2^32 seconds after January 1, 1970)
+“Every operating system out there is about equal… We all suck.” (Microsoft senior vice president Brian Valentine describing the state of the art in OS security, 2003)
+“The Internet? Is that thing still around?” (Homer Simpson)
+“Come to think of it, there are already a million monkeys on a million typewriters, and Usenet is nothing like Shakespeare.” (Blair Houghton)
+“We are Microsoft. Resistance Is Futile. You Will Be Assimilated.” (Bumper sticker)
+“The bulk of all patents are crap. Spending time reading them is stupid. It’s up to the patent owner to do so, and to enforce them.” (Linus Torvalds)
+“There’s an old story about the person who wished his computer were as easy to use as his telephone. That wish has come true, since I no longer know how to use my telephone.” (Bjarne Stroustrup)
+“Any fool can use a computer. Many do.” (Ted Nelson)
+“Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.” (Larry Wall)
+“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” (Seymour Cray)
+“For a long time it puzzled me how something so expensive, so leading edge, could be so useless. And then it occurred to me that a computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.” (Bill Bryson)
+“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.” (Mosher’s Law of Software Engineering)
+“Optimism is an occupational hazard of programming; feedback is the treatment.” (Kent Beck)
+“Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.” (Stan Kelly-Bootle)
+“There are only two kinds of programming languages: those people always bitch about and those nobody uses.” (Bjarne Stroustrup)
+“Fine, Java MIGHT be a good example of what a programming language should be like. But Java applications are good examples of what applications SHOULDN’T be like.” (pixadel)
+“If debugging is the process of removing bugs, then programming must be the process of putting them in.” (Edsger W. Dijkstra)
+“I don’t care if it works on your machine! We are not shipping your machine!” (Vidiu Platon)
+“Programming is like sex: one mistake and you’re providing support for a lifetime.” (Michael Sinz)
+“We will never become a truly paper-less society until the Palm Pilot folks come out with WipeMe 1.0.” (Andy Pierson)
+Where is the "I like" button?
+Armageddon was yesterday. Today we have a serious problem.
+Customer: "I'd like to buy the Internet. Do you know how much it is?"
+Customer: "I just downloaded the Internet. How do I use it?"
+Customer: "I don't have a computer at home. Is the Internet available in book form?"
+Customer: "The Internet is running too slow. Could you reboot it please?"
+Customer: "I lost my Internet. I switched it off last night and turned on this morning, and it's gone.
+When I wrote this code, only God and I knew what I was doing. Now, God only knows.
+They don't make bugs like Bunny anymore.- Olav Mjelde.
+The most ineffective workers are systematically moved to the place where they can do the least damage: management. (Scott Adams))
+As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one. (Mike Godwin)
+Most production software bugs are soft: they go away when you look at them. (Jim Gray)
+If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it. (Murphy)
+“Nothing is so easy as the job you imagine someone else doing.”
+Rule of software development: Good, Fast, Cheap. Pick two.
+Richards’ Laws of Data Security: 1. Don’t buy a computer. 2. If you must buy a computer, don’t turn it on.
+Was ist das? - Ein blaues Licht! - Was tut es? - Es leuchtet Blau (J. Rambo)
+Fluchen ist die einzige Sprache, die alle Programmierer wirklich beherrschen.
+Smash forehead on keyboard to continue . . .
+“95% of coding is half mental.”
+If you don't know what you're doing, leave it and say: "Here, almost done, somebody else finish it."
+IDKFA
+"Do you post your code on Facebook?" - "Of course. Didn't you say to me it needs more comments?"
+I'm convinced that the only thing that kept me going was that I loved what I did. (Steve Jobs 1955-2011)
+“Coding styles are like assholes, everyone has one and no one likes anyone elses.” Eric Warmenhoven
+“Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing.” Dick Brandon
+“The most likely way for the world to be destroyed, most experts agree, is by accident. That’s where we come in; we’re computer professionals. We cause accidents.” Nathaniel Borenstein

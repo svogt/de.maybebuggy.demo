@@ -1,0 +1,9 @@
+<aspectj>
+    <aspects>
+        <aspect name="org.perf4j.slf4j.aop.TimingAspect" />
+    </aspects>
+
+    <weaver options="-verbose -showWeaveInfo">
+        <include within="com.seeburger.dt.expexchange.perf4j.*" />
+    </weaver>
+</aspectj>
