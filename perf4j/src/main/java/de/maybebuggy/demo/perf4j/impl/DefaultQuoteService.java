@@ -20,7 +20,7 @@ public class DefaultQuoteService
 
     public DefaultQuoteService()
     {
-        InputStream in = this.getClass().getClassLoader().getResourceAsStream("com/seeburger/dt/expexchange/perf4j/impl/quotes.txt");
+        InputStream in = this.getClass().getClassLoader().getResourceAsStream("de/maybebuggy/demo/perf4j/impl/quotes.txt");
         if(in==null) {
             quotes.add("Quote database not found!");
             return;

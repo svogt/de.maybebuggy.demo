@@ -25,14 +25,16 @@ public class App
     {
         log.info("Starting App...");
 
-        quoteServices.add(new DefaultQuoteService());
-        log.debug("Added default service");
+//        quoteServices.add(new DefaultQuoteService());
+//        log.debug("Added default service");
         quoteServices.add(new DelayedQuoteService());
-        quoteServices.add(new FailingQuoteService());
+        log.debug("Added delayed service");
+//        quoteServices.add(new FailingQuoteService());
+//        log.debug("Added failing service");
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         while(true) {
-            for(int i=0; i<20; i++)
+            for(int i=0; i<10; i++)
                 printQuotes();
 
             if(checkStop(reader))
@@ -40,19 +42,6 @@ public class App
         }
 
         log.info("Shutting down App...");
-    }
-
-    private static boolean checkStop(BufferedReader reader)
-    {
-        try {
-            System.out.println("Press q to quit: ");
-            String cmd = reader.readLine();
-            if("q".equalsIgnoreCase(cmd) || "quit".equalsIgnoreCase(cmd) || "exit".equalsIgnoreCase(cmd))
-                return true;
-        } catch (IOException e) {
-            return true;
-        }
-        return false;
     }
 
     private static void printQuotes()
@@ -85,5 +74,18 @@ public class App
     private static void printQuote3(QuoteService quoteService)
     {
         System.out.println(quoteService.getQuote());
+    }
+
+    private static boolean checkStop(BufferedReader reader)
+    {
+        try {
+            System.out.println("Enter q to quit: ");
+            String cmd = reader.readLine();
+            if("q".equalsIgnoreCase(cmd) || "quit".equalsIgnoreCase(cmd) || "exit".equalsIgnoreCase(cmd))
+                return true;
+        } catch (IOException e) {
+            return true;
+        }
+        return false;
     }
 }

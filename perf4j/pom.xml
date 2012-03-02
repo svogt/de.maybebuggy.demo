@@ -54,7 +54,7 @@
                         <argument>-Dcom.sun.management.jmxremote.authenticate=false</argument>
                         <argument>-Dlog4j.configuration=log4j.xml</argument>
                         <argument>-Dlog4j.debug</argument>
-                        <argument>com.seeburger.dt.expexchange.perf4j.App</argument>
+                        <argument>de.maybebuggy.demo.perf4j.App</argument>
                     </arguments>
                 </configuration>
             </plugin>

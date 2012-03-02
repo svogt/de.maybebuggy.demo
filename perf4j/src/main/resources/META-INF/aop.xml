@@ -4,6 +4,6 @@
     </aspects>
 
     <weaver options="-verbose -showWeaveInfo">
-        <include within="com.seeburger.dt.expexchange.perf4j.*" />
+        <include within="de.maybebuggy.demo.perf4j.*" />
     </weaver>
 </aspectj>
