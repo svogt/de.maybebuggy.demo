@@ -25,16 +25,16 @@ public class App
     {
         log.info("Starting App...");
 
-//        quoteServices.add(new DefaultQuoteService());
-//        log.debug("Added default service");
+        quoteServices.add(new DefaultQuoteService());
+        log.debug("Added default service");
         quoteServices.add(new DelayedQuoteService());
         log.debug("Added delayed service");
-//        quoteServices.add(new FailingQuoteService());
-//        log.debug("Added failing service");
+        quoteServices.add(new FailingQuoteService());
+        log.debug("Added failing service");
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         while(true) {
-            for(int i=0; i<10; i++)
+            for(int i=0; i<20; i++)
                 printQuotes();
 
             if(checkStop(reader))
@@ -51,7 +51,7 @@ public class App
         System.out.println(msg);
         for(QuoteService service : quoteServices) {
             try {
-                printQuote1(service);
+                printQuote3(service);
             } catch (Exception e) {
                 log.warn("QuoteService <{}> failed...", service.getName());
             }
@@ -64,7 +64,7 @@ public class App
         System.out.println(quoteService.getQuote());
     }
 
-    @Profiled(tag="${0.name}")
+    @Profiled(tag="{$0.name}")
     private static void printQuote2(QuoteService quoteService)
     {
         System.out.println(quoteService.getQuote());

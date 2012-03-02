@@ -55,8 +55,8 @@
       default.
     -->
     <appender name="perf4jJmxAppender" class="org.perf4j.log4j.JmxAttributeStatisticsAppender">
-        <param name="TagNamesToExpose" value="DefaultQuoteService,DelayedQuoteService,FailingQuoteService"/>
-        <param name="NotificationThresholds" value="DefaultQuoteServiceMax(0-100),DelayedQuoteServiceMax(0-3000),FailingQuoteServiceMax(0-1000)"/>
+        <param name="TagNamesToExpose" value="printQuote,DefaultQuoteService,DelayedQuoteService,FailingQuoteService"/>
+        <param name="NotificationThresholds" value="printQuoteMax(0-1000),DefaultQuoteServiceMax(0-100),DelayedQuoteServiceMax(0-3000),FailingQuoteServiceMax(0-1000)"/>
     </appender>
 
     <!-- Loggers -->
